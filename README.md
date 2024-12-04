@@ -23,7 +23,12 @@
 ![](03_localhost.png)
 
 ## 4. Measure the accuracy of model
-
 ## 5. Model persistance
+
+![](04_localhost.png)
+
+* To avoid retraining the model every time, save it using joblib
+* Load the model for future predictions without retraining
+  
 ## 6. Visualize decision tree
 
