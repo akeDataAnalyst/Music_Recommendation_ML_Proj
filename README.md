@@ -20,8 +20,10 @@
 - A decision tree algorithm is used to create a model 
 - Import the necessary class from the scikit-learn library
 - This allows the model to learn patterns from the data
+![](03_localhost.png)
 
 ## 4. Measure the accuracy of model
+
 ## 5. Model persistance
 ## 6. Visualize decision tree
 
