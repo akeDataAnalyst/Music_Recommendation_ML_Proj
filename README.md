@@ -34,8 +34,8 @@
 `from sklearn import tree`
 
 `tree.export_graphviz(model, out_file='music-recommender.dot',`
-    ` feature_names=['age','gender'],`
-    `class_names=sorted(y.unique()),`
-     `label='all',`
-     ` rounded=True,`
-     `filled=True)`
+` feature_names=['age','gender'],`
+`class_names=sorted(y.unique()),`
+ `label='all',`
+ ` rounded=True,`
+ `filled=True)`
